@@ -1,16 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey</h1>
 
 ###
 
-<p align="left">My name is Joe and I'm a Cyber Security Student from Lancashire</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2017!<br>📚 I'm currently learning Autopsy/Encase for digital forensics and secure configuration of wireless and mobile networks<br>🎯 Goals: Land a summer placement in industry this year, Achieve ISC2 CC and CompTIA Sec+ certifications<br>🎲 Fun fact: My surname is Hackett, and I hack things! (ethically)</p>
+<p align="left">My name is Joe Hackett and I'm a Cybersecurity plaftorm creator and current BSc (soon to be MSc) Cyber Security Student</p>
 
 ###
 
